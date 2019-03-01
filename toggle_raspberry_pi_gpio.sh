@@ -37,7 +37,6 @@ fi
 echo "Writing to GPIO"
 
 count=0
-#while [[ count -gt 5 ]]; 
 while true ;
 do
 
